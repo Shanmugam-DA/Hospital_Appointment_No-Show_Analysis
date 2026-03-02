@@ -28,7 +28,9 @@ and provide actionable insights to reduce no-show rates and improve hospital eff
 - No-show rate by distance to hospital
 
  💡 Key Insights
-- Longer waiting days significantly increase no-show rates
+
+- 49.25% overall no-show rate
+- 66% no-show for Longer waiting days(15-30days) significantly increase no-show rates 
 - Patients with frequent past no-shows are more likely to miss future appointments
 - SMS + Email reminders reduce no-show rates compared to no reminders
 - Shorter travel distance correlates with better appointment attendance
