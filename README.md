@@ -35,14 +35,11 @@ and provide actionable insights to reduce no-show rates and improve hospital eff
 - SMS + Email reminders reduce no-show rates compared to no reminders
 - Shorter travel distance correlates with better appointment attendance
 
- 📈 Dashboard Preview
-(Screenshots of Power BI dashboard included)
 
  🎯 Business Impact
 - Helps hospitals reduce revenue loss
 - Improves doctor scheduling efficiency
 - Enhances patient attendance and care delivery
-
 
 
 ## 📎 Project Type
